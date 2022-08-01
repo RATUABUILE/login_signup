@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "username": "humpty",
+            "password": "Humpty123@",
+            "Profile": {
+                "description": "sleeping",
+                "Dob": "28-12-2003",
+                "Gender": "female",
+                "Hobbies": "eating"
+            }
+        }
+    ]
+}
